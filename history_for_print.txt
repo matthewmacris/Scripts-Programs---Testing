@@ -1,0 +1,30 @@
+    1  git --version
+    2  git --version
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  sudo apt upgrade
+    6  sudo apt update
+    7  sudo apt install -y get
+    8  sudo apt install -y git
+    9  git config --global user.name "matthewmacris"
+   10  git config --global user.email "matthew.macris13@gmail.com"
+   11  ls
+   12  nano README.md 
+   13  nano README.md 
+   14  mkdir GitLab
+   15  ls
+   16  cd GitLab/
+   17  ls
+   18  clear
+   19  git clone https://github.com/matthewmacris/Scripts-Programs---Testing.git
+   20  ls
+   21  cd Scripts-Programs---Testing/
+   22  ls
+   23  nano README.md 
+   24  ls
+   25  git status
+   26  git add --all
+   27  git status
+   28  git commit -m "Added information about birds. insects, and reptiles."
+   29  git push
+   30  history > history_for_print.txt
